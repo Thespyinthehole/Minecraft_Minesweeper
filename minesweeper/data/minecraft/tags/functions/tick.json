@@ -1,0 +1,7 @@
+{
+	"values" : [
+		"minesweeper:test_mine",
+		"minesweeper:test_cell",
+		"minesweeper:test_win"
+	]
+}
