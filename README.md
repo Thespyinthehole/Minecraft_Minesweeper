@@ -1,6 +1,8 @@
 ## Change Board:
 scoreboard players set width ms_board 9
+
 scoreboard players set height ms_board 9
+
 scoreboard players set bomb_count ms_board 10
 
 ## Generate Board:
@@ -14,11 +16,19 @@ Once all the blocks that are not bombs are revealed you win.
 
 ## Colour code:
 0 - light gray
+
 1 - lime
+
 2 - green
+
 3 - yellow
+
 4 - orange
+
 5 - light blue
+
 6 - purple
+
 7 - red
+
 8 - black
