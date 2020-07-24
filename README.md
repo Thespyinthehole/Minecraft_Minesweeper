@@ -5,6 +5,8 @@ scoreboard players set height ms_board 9
 
 scoreboard players set bomb_count ms_board 10
 
+I would not suggest going too crazy with the size, the board reset is max size of 100x100. I tried this size and it was very slow.
+
 ## Generate Board:
 function minesweeper:generate_board
 
